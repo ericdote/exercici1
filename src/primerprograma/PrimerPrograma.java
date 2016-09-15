@@ -16,6 +16,6 @@ public class PrimerPrograma {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
-        System.out.prinln("Control remoto");
+        System.out.println("Control remoto");
     }
 }
